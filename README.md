@@ -32,18 +32,22 @@ LOAD"QR1.PRG",8
 LOAD"PETQRLOADER",8
 RUN
 ```
+![Loading loader program](images/sample-loader.png)
+![Sample QR from loader](images/qr1.png)
 
 ### BASIC 4
 ```
 DLOAD"QR1.PRG"
 ```
-
+![Loading sample QR BASIC4](images/sample-dload-qr.png)
 -or-
 
 ```
 DLOAD"PETQRLOADER"
 RUN
 ```
+![Loading loader program BASIC4](images/sample-dloader.png)
+![Sample QR from loader](images/qr1-alt.png)
 
 ## Future Enhancements
 
